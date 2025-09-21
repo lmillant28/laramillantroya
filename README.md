@@ -1,53 +1,34 @@
 
 # 👋 Hola, soy Lara
-Soy Técnica Superior en Desarrollo de Aplicaciones Web (DAW).  
-Apasionada por la programación y por segir creciendo en este mundo de la informática.
+
+Soy **Técnica Superior en Desarrollo de Aplicaciones Web (DAW)**.  
+Apasionada por la programación, el aprendizaje constante y el desarrollo de soluciones creativas en el mundo de la informática.
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### 📌 [Instacook](https://github.com/usuario/instacook)
-# 👩‍🍳 Instacook
-
-Instacook es una **plataforma web** donde los usuarios pueden compartir sus recetas de cocina, interactuar con otros miembros de la comunidad y reaccionar a los contenidos publicados.  
-Un espacio pensado para fomentar la creatividad gastronómica y la interacción social.
-
----
-
-## ✨ Funcionalidades principales
-- 📌 Registro y autenticación de usuarios.  
-- 🍲 Subida y gestión de **recetas** con título, ingredientes, pasos y fotos.  
-- 💬 Sistema de **comentarios** en las recetas.  
-- 👍 Reacciones y “me gusta” para valorar recetas.  
-- 🔎 Buscador y filtros por ingredientes o categorías.  
-- 👤 Perfil de usuario con listado de sus recetas publicadas.  
-- 📱 Interfaz responsive accesible desde móviles y ordenadores.  
-
+### 📌 [Instacook](https://github.com/lmillant28/instacook)
+Plataforma social de recetas de cocina.  
+- Los usuarios pueden publicar recetas con ingredientes, pasos e imágenes.  
+- Sistema de comentarios y reacciones.  
+- Buscador y filtros por ingredientes/categorías.  
+- Interfaz responsive accesible desde móviles y ordenadores.  
+**Tecnologías:** Java (Spring Boot), SQL, HTML, CSS, JavaScript, Bootstrap, JPA/Hibernate.  
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+### 📌 [Otros proyectos](https://github.com/lmillant28?tab=repositories)
+- 🌱 [laramillantroya](https://github.com/lmillant28/laramillantroya) – proyectos personales y de aprendizaje.  
+*(aquí podrás añadir otros proyectos conforme los publiques)*  
 
-**Frontend:**
-- HTML5, CSS3  
-- JavaScript (JQuery)  
-- Bootstrap para estilos y responsive  
+---
 
-**Backend:**
-- Java (Spring Boot)  
-- Controladores REST y servicios en capas  
-- Maven para la gestión de dependencias  
-
-**Base de datos:**
-- PostgreSQL  
-- MariaDB (en entornos previos)  
-
-**Librerías y utilidades:**
-- DataTables (listados dinámicos)  
-- JPA/Hibernate (gestión de entidades)  
-- Spring Security (registro/login seguro)  
-
+## 🛠️ Tecnologías que utilizo
+- **Lenguajes:** Java, SQL, JavaScript, HTML5, CSS3  
+- **Frameworks y librerías:** Spring Boot, JQuery, Bootstrap, DataTables  
+- **Bases de datos:** SQL
+- **Herramientas:** Git, GitHub, Maven  
 
 ---
 
