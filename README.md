@@ -18,11 +18,6 @@ Plataforma social de recetas de cocina.
 
 ---
 
-### 📌 [Otros proyectos](https://github.com/lmillant28?tab=repositories)
-- 🌱 [laramillantroya](https://github.com/lmillant28/laramillantroya) – proyectos personales y de aprendizaje.  
-*(aquí podrás añadir otros proyectos conforme los publiques)*  
-
----
 
 ## 🛠️ Tecnologías que utilizo
 - **Lenguajes:** Java, SQL, JavaScript, HTML5, CSS3  
